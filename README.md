@@ -1,14 +1,18 @@
-# SOUZATXT (Mateus) 💻
+# SouzaTXT (Mateus) 💻
+
 Hello World! My name is Mateus and I am currently a Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of São Paulo.
 
 I'm passionate about computing. Programming is one of the many things I've tried to do in this field, such as developing games, making 3D models and even pixel arts.
 
 ## Connect with me ☕
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fonseca-de-souza-0375a726b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SouzaTXT)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateusfonsecasouza41@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouzaTXT&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<img align="right" alt="Cute Cat Programing" height="190" width="300" src="https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif">
+
 
 ## Skills 👨‍💻
 I'm still learning new skills, i promise to update here when i learn one xD!
