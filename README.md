@@ -11,7 +11,7 @@ I'm passionate about computing. Programming is one of the many things I've tried
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateusfonsecasouza41@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouzaTXT&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-<img align="right" alt="Cute Cat Programing" height="190" width="300" src="https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif">
+<img align="right" alt="Cute Cat Programing [https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif]" height="190" width="300" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/200w.gif?cid=6c09b95270sfz6234lbgsbgrotn3kivet7jp685taxnbd64q&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 
 ## Skills 👨‍💻
