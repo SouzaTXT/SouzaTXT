@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mateus%20Souza&fontAlign=70&fontAlignY=40&color=gradient" height="150" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mateus%20Fonseca&fontAlign=65&fontAlignY=40&color=gradient" height="150" width="100%">
 
 <p>Hello World! My name is Mateus and I am currently a Systems Analysis and Development <br> student at the Federal Institute of Education, Science and Technology of São Paulo.</p>
 
