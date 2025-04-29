@@ -1,10 +1,12 @@
-# SouzaTXT (Mateus) 💻
+
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Souza%20TXT&fontAlign=75&fontAlignY=40&color=gradient" height="150" width="100%">
 
 Hello World! My name is Mateus and I am currently a Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of São Paulo.
 
 I'm passionate about computing. Programming is one of the many things I've tried to do in this field, such as developing games, making 3D models and even pixel arts.
 
-## Connect with me ☕
+## My Links ☕
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fonseca-de-souza-0375a726b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SouzaTXT)
@@ -24,3 +26,4 @@ I'm still learning new skills, i promise to update here when i learn one xD!
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SouzaTXT&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+</div>
