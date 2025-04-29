@@ -6,7 +6,7 @@
 
 <p>I'm passionate about computing. Programming is one of the many things I've tried to do <br> in this field, such as developing games, making 3D models and even pixel arts.</p>
 
-## My Links ☕
+## My Links and Stats ☕
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fonseca-de-souza-0375a726b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SouzaTXT)
@@ -16,7 +16,7 @@
 
 
 
-## Skills 👨‍💻
+## Skills 💾
 I'm still learning new skills, i promise to update here when i learn one xD!
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
