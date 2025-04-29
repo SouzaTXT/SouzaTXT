@@ -1,10 +1,10 @@
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Souza%20TXT&fontAlign=75&fontAlignY=40&color=gradient" height="150" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mateus%20Souza&fontAlign=70&fontAlignY=40&color=gradient" height="150" width="100%">
 
-Hello World! My name is Mateus and I am currently a Systems Analysis and Development student at the Federal Institute of Education, Science and Technology of São Paulo.
+<p>Hello World! My name is Mateus and I am currently a Systems Analysis and Development <br> student at the Federal Institute of Education, Science and Technology of São Paulo.</p>
 
-I'm passionate about computing. Programming is one of the many things I've tried to do in this field, such as developing games, making 3D models and even pixel arts.
+<p>I'm passionate about computing. Programming is one of the many things I've tried to do <br> in this field, such as developing games, making 3D models and even pixel arts.</p>
 
 ## My Links ☕
   
@@ -13,7 +13,7 @@ I'm passionate about computing. Programming is one of the many things I've tried
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateusfonsecasouza41@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouzaTXT&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-<img align="right" alt="Cute Cat Programing [https://media.tenor.com/yp_aFUgHMx8AAAAM/nakanoart-nakanodrawing.gif]" height="190" width="300" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/200w.gif?cid=6c09b95270sfz6234lbgsbgrotn3kivet7jp685taxnbd64q&ep=v1_gifs_search&rid=200w.gif&ct=g">
+
 
 
 ## Skills 👨‍💻
