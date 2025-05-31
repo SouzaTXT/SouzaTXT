@@ -29,5 +29,9 @@ I'm still learning new skills, i promise to update here when i learn more!
 <img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://skillicons.dev/icons?i=aws" />
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouzaTXT/SouzaTXT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouzaTXT/SouzaTXT/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SouzaTXT/SouzaTXT/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
