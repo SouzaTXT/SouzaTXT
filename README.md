@@ -7,7 +7,7 @@
 # About me 💻
 
 <div align="center">
-<img align="left" src="https://i.pinimg.com/736x/33/bf/40/33bf4094c80d25763281c9e51f1cb372.jpg" width="180px" height="180px">
+<img align="right" src="https://i.pinimg.com/736x/d2/8f/94/d28f942467adfd4bf676e4f836aa0cd6.jpg" width="170px" height="170px">
  
 ```lua 
 SouzaTXT
