@@ -12,7 +12,7 @@
 ```lua 
 SouzaTXT
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-OS: Windows 10 / Kali Linux
+OS: Windows 10 / Linux
 Location: Brasil, Caraguatatuba - SP
 Learning: CyberSecurity and Python
 Languages: Portuguese and English 
