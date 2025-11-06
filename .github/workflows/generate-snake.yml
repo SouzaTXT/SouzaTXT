@@ -6,6 +6,9 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Jobs to update datas
@@ -15,7 +18,7 @@ jobs:
       - uses: Sutil/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ souzaTXT }}
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: 'blue'
 
