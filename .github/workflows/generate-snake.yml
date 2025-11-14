@@ -16,7 +16,7 @@ jobs:
       - uses: Sutil/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{ SouzaTXT }}
+          github_user_name: SouzaTXT              
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: 'blue'
 
@@ -25,4 +25,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
