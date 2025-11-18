@@ -12,7 +12,7 @@
 ```lua 
 SouzaTXT
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-OS: Windows 10 / Linux
+OS: Windows 10 / Ubuntu / Kali
 Location: Brasil, Caraguatatuba - SP
 Learning: CyberSecurity and Python
 Languages: Portuguese and English 
@@ -34,10 +34,12 @@ I'm still learning new skills, i promise to update here when i learn more!
 <img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://skillicons.dev/icons?i=aws" />
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouzaTXT/SouzaTXT/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SouzaTXT/SouzaTXT/output/github-contribution-grid-snake.svg">
 </picture>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
 </div>
 
