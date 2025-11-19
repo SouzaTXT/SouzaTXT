@@ -16,7 +16,7 @@ OS: Windows 10 / Ubuntu / Kali
 Location: Brasil, Caraguatatuba - SP
 Learning: CyberSecurity and Python
 Languages: Portuguese and English 
-Hobbies: Volleyball, 3D Modeling, Gym and Listening music.
+Hobbies: Volleyball, Gym and Listening music.
 ```
 </div>
 
