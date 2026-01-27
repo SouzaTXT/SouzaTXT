@@ -32,6 +32,7 @@ I'm still learning new skills, i promise to update here when i learn more!
 <img src="https://skillicons.dev/icons?i=python" />
  <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=kali" />
+ <img src="https://skillicons.dev/icons?i=ubuntu" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://skillicons.dev/icons?i=aws" />
