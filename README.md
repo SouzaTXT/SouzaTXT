@@ -14,7 +14,7 @@ SouzaTXT
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 OS: Windows 10 / Ubuntu / Kali
 Location: Brasil, Caraguatatuba - SP
-Learning: CyberSecurity and Python
+Learning: JavaScript and Java
 Languages: Portuguese and English 
 Hobbies: Volleyball, Gym and Listening music.
 ```
