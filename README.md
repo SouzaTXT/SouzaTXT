@@ -14,7 +14,7 @@ SouzaTXT
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 OS: Windows 10 / Ubuntu / Kali
 Location: Brasil, Caraguatatuba - SP
-Learning: JavaScript and Java
+Learning: Python and Java
 Languages: Portuguese and English 
 Hobbies: Volleyball, Gym and Listening music.
 ```
@@ -30,6 +30,7 @@ I'm still learning new skills, i promise to update here when i learn more!
 <img src="https://skillicons.dev/icons?i=html" />
  <img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=python" />
+ <img src="https://skillicons.dev/icons?i=java" />
  <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=kali" />
  <img src="https://skillicons.dev/icons?i=ubuntu" />
