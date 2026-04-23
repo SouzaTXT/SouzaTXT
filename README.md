@@ -14,9 +14,9 @@ SouzaTXT
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 OS: Windows / Linux 
 Location: Brasil, Caraguatatuba - SP
-Learning: JavaScript and Java
+Learning: Software Development and Cybersecurity
 Languages: Portuguese and English 
-Hobbies: Volleyball, Gym and Listening music.
+Hobbies: Studying, Gym and Listening music.
 ```
 </div>
 
@@ -26,16 +26,8 @@ Hobbies: Volleyball, Gym and Listening music.
 
 I'm still learning new skills, i promise to update here when i learn more!
 <div align= "center">
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=html" />
- <img src="https://skillicons.dev/icons?i=js" />
- <img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=python" />
- <img src="https://skillicons.dev/icons?i=java" />
- <img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=kali" />
- <img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=aws" />
+ 
+ [![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bash,python,java,c,mysql,aws,googlecloud,linux,windows,git&perline=8)](https://skillicons.dev)
 </div>
 
 <picture>
